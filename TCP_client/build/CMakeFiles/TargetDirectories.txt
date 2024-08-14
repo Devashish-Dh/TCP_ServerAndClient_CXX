@@ -1,3 +1,0 @@
-/home/ved/cxx_experiments/TCP_ServerAndClient_CXX/TCP_client/build/CMakeFiles/tcp_client.dir
-/home/ved/cxx_experiments/TCP_ServerAndClient_CXX/TCP_client/build/CMakeFiles/edit_cache.dir
-/home/ved/cxx_experiments/TCP_ServerAndClient_CXX/TCP_client/build/CMakeFiles/rebuild_cache.dir
